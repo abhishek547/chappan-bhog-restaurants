@@ -1,0 +1,151 @@
+/* #header start  */
+
+
+/* #header {
+
+} */
+
+#title {
+    flex-direction: column;
+}
+
+#first-part {
+    padding: 0 15px;
+}
+
+#second-part {
+    margin-left: 10px;
+}
+
+#third-part {
+    margin-left: 3rem;
+}
+
+
+/* #header end  */
+
+
+/* #main-head start  */
+
+
+/* #main-head {
+
+} */
+
+#connecting-links {
+    flex-wrap: wrap;
+    margin: 72px 27px 0px 27px;
+}
+
+
+/* #main-head end  */
+
+
+/* #home start  */
+
+
+/* #home {
+
+} */
+
+
+/* #home end  */
+
+
+/* #show-off-image start  */
+
+
+/* #show-off-image {
+
+} */
+
+
+/* #show-off-image  end  */
+
+
+/* #food-intro start  */
+
+
+/* #food-intro {
+
+} */
+
+.intro-boxes {
+    flex-direction: column;
+}
+
+.intro-box-heading-para-left {
+    text-align: center;
+}
+
+.intro-box-heading-para-right {
+    text-align: center;
+}
+
+#intro-box2,
+#intro-box4 {
+    flex-direction: column-reverse;
+}
+
+
+/* #food-intro end  */
+
+
+/* #coupon-section start  */
+
+#coupon-section {
+    flex-direction: column;
+}
+
+#coupon-texts {
+    width: auto;
+}
+
+#coupon-images img {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+
+/* #coupon-section end  */
+
+
+/* #food-ordering {
+  
+} */
+
+
+/* #menu-ordering {
+
+} */
+
+
+/* #small menu start  */
+
+
+/* #small-menu {
+
+} */
+
+#sm-all-boxes {
+    flex-direction: column;
+}
+
+
+/* #small menu end  */
+
+
+/* #mu-by-table start  */
+
+#mu-by-table {
+    border: 4px solid red;
+    flex-direction: column;
+}
+
+#left-table,
+#right-table {
+    margin: 0 95px;
+}
+
+
+/* #mu-by-table end  */
