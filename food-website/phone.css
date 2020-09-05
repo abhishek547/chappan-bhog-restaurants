@@ -5,6 +5,17 @@
 
 } */
 
+#all-links {
+    flex-direction: column;
+    position: fixed !important;
+    background-color: rgba(0, 0, 0, 0.4) !important;
+    width: 100px;
+}
+
+.dropdown-content a {
+    padding: 2px 20px;
+}
+
 #title {
     flex-direction: column;
 }
@@ -115,9 +126,19 @@
 } */
 
 
+/* menu-ordeering-start  */
+
+
 /* #menu-ordering {
 
 } */
+
+.image-boxes {
+    flex-direction: column;
+}
+
+
+/* menu-ordeering-end  */
 
 
 /* #small menu start  */
